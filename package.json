@@ -1,0 +1,10 @@
+{
+	"name": "shoptile",
+	"version": "1.0.0",
+	"description": "Shoptile client SDK",
+	"main": "index.ts",
+	"repository": "https://github.com/Alexandrehebertvincent/shoptile-sdk",
+	"author": "Alexandre Hébert-Vincent",
+	"license": "MIT",
+	"private": true
+}
